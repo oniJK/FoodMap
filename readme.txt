@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-jdnjsbgknew text
+KDHGKLDHLMSLjdnjsbgknew text
 =======
 New text
 >>>>>>> yuy
